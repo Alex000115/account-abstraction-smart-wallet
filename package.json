@@ -1,0 +1,10 @@
+{
+  "name": "aa-smart-wallet",
+  "version": "1.0.0",
+  "description": "ERC-4337 Smart Contract Wallet",
+  "dependencies": {
+    "@account-abstraction/contracts": "^0.6.0",
+    "@openzeppelin/contracts": "^5.0.1",
+    "ethers": "^6.10.0"
+  }
+}
